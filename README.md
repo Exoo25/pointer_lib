@@ -1,4 +1,3 @@
-```
 # 🧩 Pointer Table - Python Pointer Simulator
 
 A lightweight Python library to **simulate C-style pointers in Python**.  
