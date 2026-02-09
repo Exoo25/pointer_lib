@@ -32,7 +32,7 @@ print(ptr)              # e.g., 0xABCDE
 retrieved_list = retrieve(ptr)
 print(retrieved_list)   # [1, 2, 3]
 ```
-<img width="2920" height="722" alt="image" src="https://github.com/user-attachments/assets/bc28aa4d-1d4f-4b66-bfe5-a4224e82c3f2" />
+<img width="2920" height="522" alt="image" src="https://github.com/user-attachments/assets/bc28aa4d-1d4f-4b66-bfe5-a4224e82c3f2" />
 
 ---
 
